@@ -1,2 +1,2 @@
 # GitCursoTemplate
-Projeto criado de exemplo 
+Repositório do livro de estudos
